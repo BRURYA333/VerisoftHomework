@@ -11,8 +11,8 @@ namespace VerisoftWork
         private bool mammals;
         private bool carnivorous;
         private int mood;
-        protected const int MOOD_HAPPY=1;
-        protected const int MOOD_SCARE=2;
+        public const int MOOD_HAPPY=1;
+        public const int MOOD_SCARE=2;
 
         public Animal(bool mammals, bool carnivorous, int mood) { 
         
@@ -44,8 +44,5 @@ namespace VerisoftWork
         {
             this.carnivorous = carnivorous;
         }
-
-
-
     }
 }

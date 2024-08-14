@@ -42,9 +42,9 @@ namespace VerisoftWork
             }
         }
 
-        int Land.getNumberOfLegs()
+        public int getNumberOfLegs()
         {
-            throw new NotImplementedException();
+            return numberOfLegs;
         }
     }
 }

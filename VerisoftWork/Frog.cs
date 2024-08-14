@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace VerisoftWork
 {
     // מחלקת Frog היורשת מ-Animal ומיישמת את הממשק Water
-    public class Frog : Animal, Water
+    public class Frog : Animal, Water, Land
     {
         // משתנה פרטי לאחסון מספר הרגליים של הצפרדע
         private int numberOfLegs;
@@ -46,6 +46,11 @@ namespace VerisoftWork
         public bool hasLaysEggs()
         {
             return true; // צפרדע מטילה ביצים
+        }
+
+        public int getNumberOfLegs()
+        {
+            return numberOfLegs;
         }
     }
 }

@@ -12,3 +12,4 @@ C:\Users\user\Documents\tichnut\אוטומציה\VerisoftWork\VerisoftWork\obj\D
 C:\Users\user\Documents\tichnut\אוטומציה\VerisoftWork\VerisoftWork\obj\Debug\net8.0\VerisoftWork.pdb
 C:\Users\user\Documents\tichnut\אוטומציה\VerisoftWork\VerisoftWork\obj\Debug\net8.0\VerisoftWork.genruntimeconfig.cache
 C:\Users\user\Documents\tichnut\אוטומציה\VerisoftWork\VerisoftWork\obj\Debug\net8.0\ref\VerisoftWork.dll
+C:\Users\user\Documents\tichnut\אוטומציה\VerisoftWork\VerisoftWork\obj\Debug\net8.0\VerisoftWork.sourcelink.json

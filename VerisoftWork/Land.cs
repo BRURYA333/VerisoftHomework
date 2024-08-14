@@ -10,5 +10,6 @@ namespace VerisoftWork
 
     {
         public int getNumberOfLegs();
+        
     }
 }
