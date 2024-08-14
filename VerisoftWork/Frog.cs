@@ -39,7 +39,7 @@ namespace VerisoftWork
         // פונקציה הבודקת האם לצפרדע יש זימים
         public bool hasGills()
         {
-            return false; // צפרדע אינה בעלת זימים
+            return true; // צפרדע בעלת זימים
         }
 
         // פונקציה הבודקת האם הצפרדע מטילה ביצים

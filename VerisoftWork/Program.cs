@@ -80,9 +80,9 @@ namespace VerisoftWork
                 }
             }
 
-            Console.WriteLine($"number of  animals is {counterCarn} (Expected: 2)");
+            Console.WriteLine($"number of animals with a gills is {counterGills} (Expected: 1)");
             Console.WriteLine($"number of carnivorous animals is {counterCarn} (Expected: 2)");
-            Console.WriteLine($"number of carnivorous animals is {counterCarn} (Expected: 2)"); 
+            Console.WriteLine($"number of animals with four legs is {counterHas4Legs} (Expected: 3)"); 
 
             Console.WriteLine("\nAll tests completed successfully!");
         }

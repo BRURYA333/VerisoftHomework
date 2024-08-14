@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VerisoftWork")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e25966cd406d2a50ebd4a42f7e77da97b1be2dc0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d8d561d4b18c6d811518c54e4365dd752e7b71a6")]
 [assembly: System.Reflection.AssemblyProductAttribute("VerisoftWork")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VerisoftWork")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
